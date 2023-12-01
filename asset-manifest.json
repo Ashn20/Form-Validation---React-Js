@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/Form-Validation---React-Js/static/css/main.e0d0fa89.css",
-    "main.js": "/Form-Validation---React-Js/static/js/main.ec3b51f6.js",
+    "main.js": "/Form-Validation---React-Js/static/js/main.2cc3fd62.js",
     "static/js/787.c6c094f2.chunk.js": "/Form-Validation---React-Js/static/js/787.c6c094f2.chunk.js",
+    "static/media/Signup.jpg": "/Form-Validation---React-Js/static/media/Signup.c2f49d3bf2a880679293.jpg",
+    "static/media/logoimg.jpeg": "/Form-Validation---React-Js/static/media/logoimg.ae429b68dbdbe3a18d00.jpeg",
+    "static/media/LandingPage.jpg": "/Form-Validation---React-Js/static/media/LandingPage.2abea498229cc0d797cf.jpg",
+    "static/media/Login.jpg": "/Form-Validation---React-Js/static/media/Login.bbda796a19d22948aead.jpg",
     "index.html": "/Form-Validation---React-Js/index.html",
     "main.e0d0fa89.css.map": "/Form-Validation---React-Js/static/css/main.e0d0fa89.css.map",
-    "main.ec3b51f6.js.map": "/Form-Validation---React-Js/static/js/main.ec3b51f6.js.map",
+    "main.2cc3fd62.js.map": "/Form-Validation---React-Js/static/js/main.2cc3fd62.js.map",
     "787.c6c094f2.chunk.js.map": "/Form-Validation---React-Js/static/js/787.c6c094f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0d0fa89.css",
-    "static/js/main.ec3b51f6.js"
+    "static/js/main.2cc3fd62.js"
   ]
 }
