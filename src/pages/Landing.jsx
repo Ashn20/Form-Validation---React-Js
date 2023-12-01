@@ -6,6 +6,7 @@ import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import  Img1  from '../images/LandingPage.jpg';
 
 const LandingPage = () => {
 
@@ -25,7 +26,7 @@ const LandingPage = () => {
       <div className="container d-flex container-landing mt-2 mb-5">
         <div className="row">
           <div className="col-md-6 mt-2  align-items-center justify-content-center">
-            <img src="/images/LandingPage.jpg" alt="Signup" className="img-fluid landing-image" />
+            <img src={Img1} alt="Signup" className="img-fluid landing-image" />
           </div>
           <div className="col-md-6 mt-2 justify-item-center align-item-center landing-primary">
             <h2 className='text-center laning-heading mt-5'>Welcome to Form Validation</h2>

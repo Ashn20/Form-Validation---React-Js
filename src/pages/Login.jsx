@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './Login.css';
 import { toast } from 'react-toastify';
+import Img2 from '../images/Login.jpg'
 
 const Login = () => {
   const navigate = useNavigate();
@@ -45,7 +46,7 @@ const Login = () => {
     <div className="container mt-2 mb-5">
       <div className="row ">
         <div className="col-md-6 d-flex align-items-center justify-content-center">
-          <img src="/images/Login.jpg" alt="Signup" className="img-fluid login-image" />
+          <img src={Img2}className="img-fluid login-image" />
         </div>
         <div className="col-md-6 justify-content-center">
           <Formik

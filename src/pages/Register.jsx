@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './Register.css';
 import { toast } from 'react-toastify';
+import Img3 from '../images/Signup.jpg'
 
 
 const Register = () => {
@@ -60,7 +61,7 @@ const Register = () => {
     <div className="container mt-2 d-flex">
     <div className="row">
       <div className="col-md-6">
-          <img src="/images/Signup.jpg" className='register-img' alt="Signup" />
+          <img src={Img3} className='register-img' alt="Signup" />
           </div>
         <div className="col-md-6">
           <Formik
